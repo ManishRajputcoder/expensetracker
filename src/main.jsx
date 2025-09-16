@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode basename="/shoppingcart">
+  <React.StrictMode basename="/expensetracker">
     <App />
   </React.StrictMode>,
 )
